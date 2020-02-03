@@ -8,5 +8,4 @@ before_install:
 script:
   - docker run -e CI=true fangyunyi/docker-react npm run test
 
-language:
-  generic
+language: generic
