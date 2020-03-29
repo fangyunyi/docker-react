@@ -21,4 +21,4 @@ deploy:
   on:
     branch: master
 
-language: generic
+language: node_js
